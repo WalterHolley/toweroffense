@@ -404,5 +404,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-/toweroffense.pyproj
-/toweroffense.sln
+#Visual Studio 2022 project elements
+*.sln
+*.pyproj
