@@ -1,4 +1,7 @@
 import pygame
+from gameunit import gameunit
+
+unit1 = gameunit()
 
 pygame.init()
 
