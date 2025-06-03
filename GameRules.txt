@@ -1,0 +1,20 @@
+==TOWER OFFENSE==
+
+A turn based strategy experiment.
+
+--OBJECTIVE--
+-Destroy the defending targets within the alloted number of rounds
+
+
+--Game Steps--
+1. A defending player and attacking player is decided
+2. Each player is represented as a 'node'
+2. The attacking player and defending  player are granted an initial allotment of resources and build their forces
+3. The round begins.  The attacking player's units advance on the defenseive player's units.
+4. When either player's units are in range, they will attack each other.
+5. Attacks continue until:
+	-Attacking units have left the range of the defensive structures
+	-All Attacking units are destroyed
+	-Defending structures are destroyed
+	-Engagement time of unit expires
+6. 

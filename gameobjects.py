@@ -1,4 +1,8 @@
+
+BASE_AT = 1000
+
 class GameUnit(object):
+
     def __init__(self, speed, attack, hp, crit):
         self.speed = speed
         self.attack = attack
@@ -16,8 +20,8 @@ class AttackUnit(GameUnit):
             return True
         return False
 
-    def unitAT():
-       pass
+    def unitAT(self):
+       return BASE_AT - (self.speed * 100)
 
 class StructureUnit(GameUnit):
     def __init__(self, speed, attack, hp, crit, owner: GameUnit):
