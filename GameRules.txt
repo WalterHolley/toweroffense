@@ -17,4 +17,14 @@ A turn based strategy experiment.
 	-All Attacking units are destroyed
 	-Defending structures are destroyed
 	-Engagement time of unit expires
-6. 
+6. Round ends when:
+	-Engagement time of all units expire
+	-All attacking units have been defeated
+	-All/Remaining attacking units have egressed
+7. Round ends
+	-Collect earned resources
+	-After round bonuses/effect?
+8.Repeat 3 - 7 until max rounds exceeded or either player is defeated
+
+--THE ROUND--
+
