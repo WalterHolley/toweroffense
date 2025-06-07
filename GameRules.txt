@@ -28,3 +28,34 @@ A turn based strategy experiment.
 
 --THE ROUND--
 
+--Pre-Round Activities--
+-purchase/build units
+-Place units
+-apply modifiers
+
+--Round Begins--
+-beginning round effects activate
+-Attacking units move
+
+--Round Activity--
+-no 'phases'
+-Game is active
+-Event based
+
+--Game Events--
+-move
+-in range
+-attack
+-onHit
+-onDeath
+-onKill
+
+--THE UNITS--
+--Player--
+-does not move
+-high attack
+-average defense
+-defending player has more HP?
+
+--Attacking Units--
+-
