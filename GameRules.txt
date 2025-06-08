@@ -58,4 +58,15 @@ A turn based strategy experiment.
 -defending player has more HP?
 
 --Attacking Units--
--
+-Move from one end of play area to the next
+-Attack structure when in range
+
+--Defending Units--
+-Stationary
+-Attack/repel attacking units when in range
+
+--Unit Stats--
+-Run: Unit Speed
+-Gun: Unit Attack
+-Fun: Crit Modifier
+-HP:  Unit health
