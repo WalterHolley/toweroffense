@@ -67,6 +67,8 @@ A turn based strategy experiment.
 
 --Unit Stats--
 -Run: Unit Speed
--Gun: Unit Attack
+-Gun: Unit Attack Power
 -Fun: Crit Modifier
 -HP:  Unit health
+
+How do I make this all play out in a tower defense scenario?
